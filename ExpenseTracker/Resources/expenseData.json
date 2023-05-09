@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "Buy Handwatch",
+        "description": "A Casip Handwatch of model RX-786.",
+        "amount": 1200,
+        "type": true,
+        "priority": true,
+        "creationDate": "12/04/2023",
+        "isPaid": true
+    },
+    {
+        "id": 2,
+        "title": "Buy Smartphone",
+        "description": "A Casip Handwatch of model RX-786.",
+        "amount": 800,
+        "type": true,
+        "priority": true,
+        "creationDate": "12/04/2023",
+        "isPaid": true
+    },
+    {
+        "id": 3,
+        "title": "Pay Tution Fees",
+        "description": "A Casip Handwatch of model RX-786.",
+        "amount": 5800,
+        "type": true,
+        "priority": true,
+        "creationDate": "12/04/2023",
+        "isPaid": false
+    },
+    {
+        "id": 4,
+        "title": "House Rent",
+        "description": "A Casip Handwatch of model RX-786.",
+        "amount": 9000,
+        "type": true,
+        "priority": true,
+        "creationDate": "12/04/2023",
+        "isPaid": true
+    },
+    {
+        "id": 5,
+        "title": "Internet Bill",
+        "description": "A Casip Handwatch of model RX-786.",
+        "amount": 1000,
+        "type": true,
+        "priority": true,
+        "creationDate": "12/04/2023",
+        "isPaid": false
+    },
+    
+]
