@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct ExpenseTrackerApp: App {
+    
+    //Inject Database
+    @StateObject private var dataController = ExpenseViewModel()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(\.managedObjectContext, dataController.container.viewContext)
         }
     }
 }
